@@ -1,16 +1,5 @@
-# studi_kasus_02
+![image](https://github.com/dimassdoubles/bk-sk2-list-kuliner/assets/76572359/3bf0fbce-7c88-460b-85aa-f07ac5c2f4f9)# Studi kasus 2 list kuliner
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/dimassdoubles/bk-sk2-list-kuliner/blob/main/gambar%201.png?raw=true)
+![alt text](https://github.com/dimassdoubles/bk-sk2-list-kuliner/blob/main/gambar%202.png?raw=true)
+![alt text](https://github.com/dimassdoubles/bk-sk2-list-kuliner/blob/main/gambar%203.png?raw=true)
